@@ -10,6 +10,10 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
           <br />
           Now This is Ahsan's App
+          Yesterdays build problem solved.
+          Just had to shuffle few lines logically
+          <b>For Haris my dear freundlish at NUML</b>
+          You may win at CS but im ......
         </p>
         <a
           className="App-link"
