@@ -15,7 +15,7 @@ function App() {
           <br />
           <b>For Haris my dear freundlish at NUML</b>
           <br />
-          You may win at CS but im winning here .......
+          You may win at CS but im winning here ......
         </p>
         <a
           className="App-link"
